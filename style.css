@@ -1,0 +1,82 @@
+section {
+  padding: 1em 18%;
+}
+.head {
+  background-color: pink;
+}
+
+.corr {
+  padding: 1em 5%;
+  background-color: rgba(255, 0, 0, 0.534);
+}
+
+.a {
+  display:inline-block;
+  vertical-align: top;
+  margin-left: 3em;
+}
+ul {
+  margin: 0;
+  padding-left: 1.5em;
+}
+p {
+  margin: 0;
+}
+.big {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+.text {
+  padding-left: 3em;
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+.obr {
+  background-color: rgba(0, 162, 255, 0.568);
+  padding: 1em 5%;
+}
+.b {
+  display:inline-block;
+  margin-left: 3em;
+  margin-right: 3em;
+  vertical-align: top;
+}
+.skill {
+  background-color: rgba(255, 0, 0, 0.534);
+}
+.text1 {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 50%;
+  background-color: white;
+}
+th {
+  border-collapse: collapse;
+  border: 1px solid black;
+  background-color: rgba(0, 162, 255, 0.459);
+  width: 30%;
+}
+td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  background-color: rgba(0, 162, 255, 0.267);
+
+}
+.d1 {
+  margin:0;
+  background: #fdfdfd;
+  border: 0.1875em solid #0F1C3F;
+  border-radius: 50%;
+  height: 8em;
+  width: 8em;
+  position: absolute;
+  left: 80em;
+  top: 5em;
+}
+
